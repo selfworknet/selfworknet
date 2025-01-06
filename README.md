@@ -44,11 +44,11 @@ I'm a software engineer from Germany and I'm currently...
      <img src="https://blog.emberjs.com/images/logos/e-icon.png" width="34px" height="34px">
    </a> -->
    
-   <!-- Angular -->
+   <!-- Angular 
    <a href="https://www.w3schools.com/angular/default.asp">
      <img src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-1024.png" width="40px" height="40px">
    </a>
-   
+   -->
     
 </div>
      
