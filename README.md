@@ -39,10 +39,10 @@ I'm a software engineer from Germany and I'm currently...
      <img src="https://logospng.org/download/javascript/logo-javascript-icon-512.png" width="35px" height="35px">
    </a> 
 
-   <!-- Ember.js
-   <a href="https://emberjs.com/">
-     <img src="https://blog.emberjs.com/images/logos/e-icon.png" width="34px" height="34px">
-   </a> -->
+   <!-- React -->
+   <a href="https://react.dev/">
+     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="34px" height="34px">
+   </a> 
    
    <!-- Angular 
    <a href="https://www.w3schools.com/angular/default.asp">
