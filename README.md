@@ -7,35 +7,20 @@ I'm a software engineer from Germany and I'm currently...
 🔭 improving practice skills in several small projects
 
 <!-- Container for inline logo visualization -->
-<div style="display:flex; vertical-align:middle;">
+<div>
   
-   <!-- C# 
-   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://crystalpng.com/wp-content/uploads/2023/02/C-Sharp-logo-600x600.png" width="35px" height="35px">
-   </a> -->
-
-   <!-- Git 
-   <a href="https://git-scm.com">
-     <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width="35px height="35px">
-   </a> -->
-
-   <!-- WPF 
-   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-8.0">
-     <img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" width="35px" height="35px">
-   </a> -->
-
    <!-- HTML -->
-   <a href="https://www.w3schools.com/html/default.asp">
+   <a href="https://developer.mozilla.org/de/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content">
      <img src="https://logospng.org/download/html-5/logo-html-5-1024.png" width="35px" height="35px">
    </a>
 
    <!-- CSS -->
-   <a href="https://www.w3schools.com/css/default.asp">
+   <a href="https://developer.mozilla.org/de/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content">
      <img src="https://logospng.org/download/css-3/logo-css-3-1024.png" width="35px" height="35px">
    </a>
 
    <!-- JS -->
-   <a href="https://www.w3schools.com/js/default.asp">
+   <a href="https://developer.mozilla.org/de/docs/Web/JavaScript/Language_overview">
      <img src="https://logospng.org/download/javascript/logo-javascript-icon-512.png" width="35px" height="35px">
    </a> 
 
